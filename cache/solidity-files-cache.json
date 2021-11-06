@@ -74,8 +74,8 @@
       ]
     },
     "/Users/aaronjanes/Ignite/my-wave-portal/contracts/WavePortal.sol": {
-      "lastModificationDate": 1636240758456,
-      "contentHash": "9e56611dbf4520dcb5022c3d11c83fcd",
+      "lastModificationDate": 1636241859830,
+      "contentHash": "e7fe9801d0b41ea51b9a5bdf1353790d",
       "sourceName": "contracts/WavePortal.sol",
       "solcConfig": {
         "version": "0.8.0",
